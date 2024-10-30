@@ -45,8 +45,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Curso.cs" />
+    <Compile Include="Cursos_act.cs" />
     <Compile Include="Disciplina.cs" />
+    <Compile Include="Disciplinas_act.cs" />
     <Compile Include="Periodo.cs" />
+    <Compile Include="Periodos_act.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
